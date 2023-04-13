@@ -16,3 +16,6 @@
 📺 Dramas de televisión: 599 títulos.
 
 👀 Estas categorías ofrecen una variedad de opciones para los usuarios que buscan una experiencia de visualización diversa y amplia en Netflix.
+
+
+# base de datos : https://public.tableau.com/app/resources/sample-data?qt-overview_resources=1#qt-overview_resources
