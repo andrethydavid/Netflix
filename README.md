@@ -22,4 +22,3 @@
 
 
 # base de datos : https://public.tableau.com/app/resources/sample-data?qt-overview_resources=1#qt-overview_resources
-.
